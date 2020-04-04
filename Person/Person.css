@@ -1,0 +1,9 @@
+.person{
+    width:60%;
+    border:1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    text-align:center;
+    padding:10px;
+    margin:20px auto;
+}
+.mt{margin-top:0;}
